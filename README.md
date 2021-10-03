@@ -1,2 +1,2 @@
-# unstable-block-stacker
-Ludum Dare #49: Unstable
+# unstable block stacker
+Ludum Dare Compo #49: Unstable
